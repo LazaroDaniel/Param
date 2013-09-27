@@ -19,3 +19,10 @@ How Param works?
 To use Param it's simple: you just have to call the css file.
 
 	<link href="param.css" rel="stylesheet">
+
+And then you just have to call the classes on the attribute that you want to.
+
+Documentation
+======
+
+Here's all the classes which are included in this version:
