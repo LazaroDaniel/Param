@@ -6,7 +6,7 @@ Info
 
 Created by [@Lazaro_Daniel](https://twitter.com/Lazaro_Daniel)
 
-[Visit Param GitHub project](https://github.com/LazaroDaniel/Param)
+Visit [Param GitHub project](https://github.com/LazaroDaniel/Param)
 
 Status: Creating...
 
