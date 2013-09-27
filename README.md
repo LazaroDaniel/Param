@@ -16,7 +16,7 @@ Param is the simplest way to you to stylize your projects, it was made for simpl
 
 How Param works?
 =====
-To use Param it's simple: you just have to call the css file.
+To use Param it's simple: You just have to call the css file.
 
 	<link href="param.css" rel="stylesheet">
 
