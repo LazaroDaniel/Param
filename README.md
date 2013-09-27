@@ -10,3 +10,5 @@ Status: Creating.
 
 About the Param
 ----
+
+Param is the simplest way to you to stylize your projects, it was made for simple usage and cool design. 
