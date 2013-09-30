@@ -22,3 +22,6 @@ a:hover { text-decoration:underline; }
 .btla {background-image: linear-gradient(to bottom, #fca251, #fb8f3d);border:1px solid #fb8f3d;color:#FFF;}
 .btla:hover {background-image: linear-gradient(to bottom, #fa9942, #fa862e);}
 .btla:active {background-image: linear-gradient(to bottom, #fa9336, #fb8022);}
+.btbl {background-image: linear-gradient(to bottom, #5FBAFF, #13A0FF);border:1px solid #3294D5;color:#FFF;}
+.btbl:hover {background-image: linear-gradient(to bottom, #55b6ff, #0a9cff);}
+.btbl:active {background-image: linear-gradient(to bottom, #4bb2ff, #0098ff);}

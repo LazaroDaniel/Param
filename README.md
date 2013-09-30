@@ -54,7 +54,9 @@ Buttons:
 	<button class="bt btverm">Red Button</button>
 	<button class="bt btla">Orange Button</button>
 	<button class="bt btverd">Green Button</button>
+	<button class="bt btbl">Blue Button 2</button>
 	<button class="btgde btazul">Big Blue Button</button>
 	<button class="btgde btverm">Big Red Button</button>
 	<button class="btgde btla">Big Orange Button</button>
 	<button class="btgde btverd">Big Green Button</button>
+	<button class="btgde btbl">Big Blue Button 2</button>
