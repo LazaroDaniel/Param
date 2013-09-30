@@ -69,3 +69,4 @@ Forms: Textfield:
 	<input type="text" class="form-text"> // Normal textfield
 	<input type="text" class="form-text form-text-red"> // Danger textfield
 	<input type="text" class="form-text form-text-green"> // Ok textfield
+	<input type="text" class="form-text form-text-alert"> // Alert textfield
