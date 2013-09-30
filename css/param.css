@@ -31,6 +31,9 @@ a:hover { text-decoration:underline; }
 .btblk {background-image: linear-gradient(to bottom, #363636, #252525);border:1px solid #111111;color:#898989;}
 .btblk:hover {background-image: linear-gradient(to bottom, #312f2f, #201f1f);}
 .btblk:active {background-image: linear-gradient(to bottom, #242222, #191717);}
+.btminiblue {background-image: linear-gradient(to bottom, #5b829c, #4b738d);border:1px solid #536b7c;color:#fff;}
+.btminiblue:hover {background-image: linear-gradient(to bottom, #6a8698, #59778b);}
+.btminiblue:active {background-image: linear-gradient(to bottom, #5e8095, #51748b);}
 .form-text{ width:100%; max-width:250px; height:25px; border-radius:4px; border:1px solid #d8d8d8; color:#3C3C3C;background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(247,247,247,1) 100%);}
 .form-text-green:focus { box-shadow: 0px 0px 5px 0px rgba(17,175,146,0.5); border:1px solid rgba(15,167,141,0.4); }
 .form-text-red:focus { box-shadow: 0px 0px 5px 0px rgba(234,84,67,0.5); border:1px solid rgba(222,72,55,0.4); }
