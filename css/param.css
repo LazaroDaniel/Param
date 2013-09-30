@@ -37,12 +37,13 @@ a:hover { text-decoration:underline; }
 .btlar {background-image: linear-gradient(to bottom, #f06938, #f1561d);border:1px solid #e35825;color:#fff;}
 .btlar:hover {background-image: linear-gradient(to bottom, #ee5d28, #f04c10);}
 .btlar:active {background-image: linear-gradient(to bottom, #ec5118, #ef4304);}
-
 .bt-flat{ display:inline-block;padding:8px 14px;font-size:15px;line-height:22px;text-align:center;cursor:pointer;color:#333333;font-family:Arial, Helvetica, sans-serif;font-weight:bold; border:none;}
 .bt-flat-blue {background-color:#29b5e7;color:#fff;}
 .bt-flat-blue:hover {background-color:#27aad9;}
 .bt-flat-blue:active {background-color:#229dc9;}
-
+.bt-flat-green {background-color:#35bdb2;color:#fff;}
+.bt-flat-green:hover {background-color:#31b1a7;}
+.bt-flat-green:active {background-color:#2ea59b;}
 .form-text{ width:100%; max-width:250px; height:25px; border-radius:4px; border:1px solid #d8d8d8; color:#3C3C3C;background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(247,247,247,1) 100%);}
 .form-text-green:focus { box-shadow: 0px 0px 5px 0px rgba(17,175,146,0.5); border:1px solid rgba(15,167,141,0.4); }
 .form-text-red:focus { box-shadow: 0px 0px 5px 0px rgba(234,84,67,0.5); border:1px solid rgba(222,72,55,0.4); }

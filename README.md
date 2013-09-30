@@ -79,6 +79,7 @@ Big buttons:
 Flat buttons:
 
 	<button class="bt-flat bt-flat-blue">Something</button> // Blue Flat Button
+	<button class="bt-flat bt-flat-green">Something</button>// Green Flat Button
 
 Forms: Textfield:
 
