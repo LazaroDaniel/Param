@@ -48,7 +48,7 @@ Links:
 
 Normal buttons:
 
-	<button class="bt">Simple Button</button>
+	<button class="bt">Normal Button</button>
 	<button class="bt btazul">Blue Button</button>
 	<button class="bt btverm">Red Button</button>
 	<button class="bt btla">Orange Button</button>
