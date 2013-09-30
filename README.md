@@ -61,6 +61,7 @@ Normal buttons:
 	<button class="bt btroxo">Something</button>          // Purple Button
 	<button class="bt btblk">Something</button>           // Black Button
 	<button class="bt btminiblue">Something</button>      // MiniBlue Button
+	<button class="bt btlar">Something</button>           // Orange Button 2
 
 Big buttons:
 
@@ -73,6 +74,7 @@ Big buttons:
 	<button class="btgde btroxo">Something</button>       // Big Purple Button
 	<button class="btgde btblk">Something</button>        // Big Black Button
 	<button class="btgde btminiblue">Something</button>   // Big MiniBlue Button
+	<button class="btgde btlar">Something</button>        // Big Orange Button 2
 
 Forms: Textfield:
 
