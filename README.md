@@ -63,3 +63,9 @@ Big buttons:
 	<button class="btgde btla">Big Orange Button</button>
 	<button class="btgde btverd">Big Green Button</button>
 	<button class="btgde btbl">Big Blue Button 2</button>
+
+Forms: Textfield:
+
+	<input type="text" class="form-text"> // Normal textfield
+	<input type="text" class="form-text form-text-red"> // Danger textfield
+	<input type="text" class="form-text form-text-green"> // Ok textfield
