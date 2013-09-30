@@ -2,7 +2,7 @@ Param CSS Library
 =====
 
 Info
-----
+-----
 
 Created by [@Lazaro_Daniel](http://twitter.com/Lazaro_Daniel)
 You can help to create Param! Just talk to me: [On Twitter](http://twitter.com/Lazaro_Daniel)
