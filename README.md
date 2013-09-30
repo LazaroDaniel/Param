@@ -2,7 +2,7 @@ Param CSS Library
 =====
 
 Info
------
+----
 
 Created by [@Lazaro_Daniel](http://twitter.com/Lazaro_Daniel)
 You can help to create Param! Just talk to me: [On Twitter](http://twitter.com/Lazaro_Daniel)
@@ -44,6 +44,7 @@ Links:
 	<a>Something</a>
 
 Buttons:
+
 	<button class="bt">Simple Button</button>
 	<button class="btgde">Big Button</button>
 	<button class="bt btazul">Blue Button</button>
