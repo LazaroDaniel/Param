@@ -33,6 +33,10 @@ Documentation
 
 Here's all the classes and attribute which are included in this version:
 
+Others:
+
+	<section class="trc"></section>                        // Dashed line (1px)
+
 Typography:
 
 	<h1>Something</h1>
@@ -54,8 +58,6 @@ Normal buttons:
 	<button class="bt btla">Something</button>            // Orange Button
 	<button class="bt btverd">Something</button>          // Green Button
 	<button class="bt btbl">Something</button>            // Blue Button 2
-	<button class="bt btroxo">Something</button>          // Purple Button
-
 
 Big buttons:
 
@@ -65,7 +67,6 @@ Big buttons:
 	<button class="btgde btla">Something</button>         // Big Orange Button
 	<button class="btgde btverd">Something</button>       // Big Green Button
 	<button class="btgde btbl">Something</button>         // Big Blue Button 2
-	<button class="btgde btroxo">Something</button>       // Big Purple Button
 
 Forms: Textfield:
 
