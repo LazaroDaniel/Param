@@ -48,25 +48,25 @@ Links:
 
 Normal buttons:
 
-	<button class="bt">Normal Button</button>
-	<button class="bt btazul">Blue Button</button>
-	<button class="bt btverm">Red Button</button>
-	<button class="bt btla">Orange Button</button>
-	<button class="bt btverd">Green Button</button>
-	<button class="bt btbl">Blue Button 2</button>
+	<button class="bt">Something</button>                 // Normal Button
+	<button class="bt btazul">Something</button>          // Blue Button
+	<button class="bt btverm">Something</button>          // Red Button
+	<button class="bt btla">Something</button>            // Orange Button
+	<button class="bt btverd">Something</button>          // Green Button
+	<button class="bt btbl">Something</button>            // Blue Button 2
 
 Big buttons:
 
-	<button class="btgde">Big Button</button>
-	<button class="btgde btazul">Big Blue Button</button>
-	<button class="btgde btverm">Big Red Button</button>
-	<button class="btgde btla">Big Orange Button</button>
-	<button class="btgde btverd">Big Green Button</button>
-	<button class="btgde btbl">Big Blue Button 2</button>
+	<button class="btgde">Something</button>              // Big Button
+	<button class="btgde btazul">Something</button>       // Big Blue Button
+	<button class="btgde btverm">Something</button>       // Big Red Button
+	<button class="btgde btla">Something</button>         // Big Orange Button
+	<button class="btgde btverd">Something</button>       // Big Green Button
+	<button class="btgde btbl">Something</button>         // Big Blue Button 2
 
 Forms: Textfield:
 
-	<input type="text" class="form-text"> // Normal textfield
-	<input type="text" class="form-text form-text-red"> // Danger textfield
+	<input type="text" class="form-text">                 // Normal textfield
+	<input type="text" class="form-text form-text-red">   // Danger textfield
 	<input type="text" class="form-text form-text-green"> // Ok textfield
 	<input type="text" class="form-text form-text-alert"> // Alert textfield
