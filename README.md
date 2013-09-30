@@ -4,11 +4,12 @@ Param CSS Library
 Info
 ----
 
-Created by [@Lazaro_Daniel](https://twitter.com/Lazaro_Daniel)
+Created by [@Lazaro_Daniel](http://twitter.com/Lazaro_Daniel)
+You can help to create Param! Just talk to me: [On Twitter](http://twitter.com/Lazaro_Daniel)
 
-Visit [Param GitHub project](https://github.com/LazaroDaniel/Param)
+Visit [Param GitHub project](htts://github.com/LazaroDaniel/Param)
 
-Status: Creating...
+Status: 0.1
 
 About the Param
 ----
@@ -27,4 +28,29 @@ And then you just have to call the classes on the attribute that you want to.
 Documentation
 ======
 
-Here's all the classes which are included in this version:
+Here's all the classes and attribute which are included in this version:
+
+Typography:
+
+	<h1>Something</h1>
+	<h2>Something</h2>
+	<h3>Something</h3>
+	<h4>Something</h4>
+	<h5>Something</h5>
+	<h6>Something</h6>
+
+Links:
+
+	<a>Something</a>
+
+Buttons:
+	<button class="bt">Simple Button</button>
+	<button class="btgde">Big Button</button>
+	<button class="bt btazul">Blue Button</button>
+	<button class="bt btverm">Red Button</button>
+	<button class="bt btla">Orange Button</button>
+	<button class="bt btverd">Green Button</button>
+	<button class="btgde btazul">Big Blue Button</button>
+	<button class="btgde btverm">Big Red Button</button>
+	<button class="btgde btla">Big Orange Button</button>
+	<button class="btgde btverd">Big Green Button</button>
