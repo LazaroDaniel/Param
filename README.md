@@ -35,7 +35,7 @@ Here's all the classes and attribute which are included in this version:
 
 Others:
 
-	<section class="trc"></section>                        // Dashed line (1px)
+	<section class="trc"></section>                          // Dashed line (1px)
 
 Typography:
 
@@ -52,33 +52,37 @@ Links:
 
 Normal buttons:
 
-	<button class="bt">Something</button>                 // Normal Button
-	<button class="bt btazul">Something</button>          // Blue Button
-	<button class="bt btverm">Something</button>          // Red Button
-	<button class="bt btla">Something</button>            // Orange Button
-	<button class="bt btverd">Something</button>          // Green Button
-	<button class="bt btbl">Something</button>            // Blue Button 2
-	<button class="bt btroxo">Something</button>          // Purple Button
-	<button class="bt btblk">Something</button>           // Black Button
-	<button class="bt btminiblue">Something</button>      // MiniBlue Button
-	<button class="bt btlar">Something</button>           // Orange Button 2
+	<button class="bt">Something</button>                   // Normal Button
+	<button class="bt btazul">Something</button>            // Blue Button
+	<button class="bt btverm">Something</button>            // Red Button
+	<button class="bt btla">Something</button>              // Orange Button
+	<button class="bt btverd">Something</button>            // Green Button
+	<button class="bt btbl">Something</button>              // Blue Button 2
+	<button class="bt btroxo">Something</button>            // Purple Button
+	<button class="bt btblk">Something</button>             // Black Button
+	<button class="bt btminiblue">Something</button>        // MiniBlue Button
+	<button class="bt btlar">Something</button>             // Orange Button 2
 
 Big buttons:
 
-	<button class="btgde">Something</button>              // Big Button
-	<button class="btgde btazul">Something</button>       // Big Blue Button
-	<button class="btgde btverm">Something</button>       // Big Red Button
-	<button class="btgde btla">Something</button>         // Big Orange Button
-	<button class="btgde btverd">Something</button>       // Big Green Button
-	<button class="btgde btbl">Something</button>         // Big Blue Button 2
-	<button class="btgde btroxo">Something</button>       // Big Purple Button
-	<button class="btgde btblk">Something</button>        // Big Black Button
-	<button class="btgde btminiblue">Something</button>   // Big MiniBlue Button
-	<button class="btgde btlar">Something</button>        // Big Orange Button 2
+	<button class="btgde">Something</button>                // Big Button
+	<button class="btgde btazul">Something</button>         // Big Blue Button
+	<button class="btgde btverm">Something</button>         // Big Red Button
+	<button class="btgde btla">Something</button>           // Big Orange Button
+	<button class="btgde btverd">Something</button>         // Big Green Button
+	<button class="btgde btbl">Something</button>           // Big Blue Button 2
+	<button class="btgde btroxo">Something</button>         // Big Purple Button
+	<button class="btgde btblk">Something</button>          // Big Black Button
+	<button class="btgde btminiblue">Something</button>     // Big MiniBlue Button
+	<button class="btgde btlar">Something</button>          // Big Orange Button 2
+
+Flat buttons:
+
+	<button class="bt-flat bt-flat-blue">Something</button> // Blue Flat Button
 
 Forms: Textfield:
 
-	<input type="text" class="form-text">                 // Normal textfield
-	<input type="text" class="form-text form-text-red">   // Danger textfield
-	<input type="text" class="form-text form-text-green"> // Ok textfield
-	<input type="text" class="form-text form-text-alert"> // Alert textfield
+	<input type="text" class="form-text">                   // Normal textfield
+	<input type="text" class="form-text form-text-red">     // Danger textfield
+	<input type="text" class="form-text form-text-green">   // Ok textfield
+	<input type="text" class="form-text form-text-alert">   // Alert textfield
