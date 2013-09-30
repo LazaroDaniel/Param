@@ -46,7 +46,7 @@ Links:
 
 	<a>Something</a>
 
-Buttons:
+Normal buttons:
 
 	<button class="bt">Simple Button</button>
 	<button class="btgde">Big Button</button>
@@ -55,6 +55,9 @@ Buttons:
 	<button class="bt btla">Orange Button</button>
 	<button class="bt btverd">Green Button</button>
 	<button class="bt btbl">Blue Button 2</button>
+
+Big buttons:
+
 	<button class="btgde btazul">Big Blue Button</button>
 	<button class="btgde btverm">Big Red Button</button>
 	<button class="btgde btla">Big Orange Button</button>
